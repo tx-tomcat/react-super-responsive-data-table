@@ -1,0 +1,28 @@
+{
+  "name": "react-super-responsive-data-table",
+  "version": "1.0.0",
+  "description": "Dynamic table component.",
+  "main": "AdvancedTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzungdinh94/react-super-responsive-data-table.git"
+  },
+  "keywords": [
+    "react-super-responsive-data-table",
+    "react-table",
+    "responsive-table"
+  ],
+  "dependencies": {
+    "@coreui/icons": "2.0.0-beta.4",
+    "@coreui/react": "^3.0.1"
+  },
+  "author": "dzungdinh94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzungdinh94/react-super-responsive-data-table/issues"
+  },
+  "homepage": "https://github.com/dzungdinh94/react-super-responsive-data-table#readme"
+}
